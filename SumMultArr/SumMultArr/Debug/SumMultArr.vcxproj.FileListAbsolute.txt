@@ -1,0 +1,3 @@
+C:\Users\Admin\source\repos\SumMultArr\SumMultArr\Debug\SumMultArr.vcxprojAssemblyReference.cache
+C:\Users\Admin\source\repos\SumMultArr\SumMultArr\Debug\SumMultArr.ArrForm.resources
+C:\Users\Admin\source\repos\SumMultArr\SumMultArr\Debug\SumMultArr.vcxproj.GenerateResource.cache

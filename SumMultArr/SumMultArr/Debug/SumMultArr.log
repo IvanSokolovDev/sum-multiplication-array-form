@@ -1,0 +1,6 @@
+﻿  ArrForm.cpp
+C:\Users\Admin\source\repos\SumMultArr\SumMultArr\ArrForm.cpp(9,32): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+C:\Users\Admin\source\repos\SumMultArr\SumMultArr\ArrForm.cpp(56,31): warning C4146: применение унарного минуса к типу без знака; результат оставлен без знака
+C:\Users\Admin\source\repos\SumMultArr\SumMultArr\ArrForm.cpp(684,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  ArrForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  SumMultArr.vcxproj -> C:\Users\Admin\source\repos\SumMultArr\Debug\SumMultArr.exe
